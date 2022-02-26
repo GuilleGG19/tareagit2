@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\bin\Debug\net5.0\LeerTeclado.exe
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\bin\Debug\net5.0\LeerTeclado.deps.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\bin\Debug\net5.0\LeerTeclado.runtimeconfig.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\bin\Debug\net5.0\LeerTeclado.runtimeconfig.dev.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\bin\Debug\net5.0\LeerTeclado.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\bin\Debug\net5.0\ref\LeerTeclado.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\bin\Debug\net5.0\LeerTeclado.pdb
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\LeerTeclado.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\LeerTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\LeerTeclado.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\LeerTeclado.AssemblyInfo.cs
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\LeerTeclado.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\ref\LeerTeclado.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\LeerTeclado.pdb
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\LeerTeclado\obj\Debug\net5.0\LeerTeclado.genruntimeconfig.cache

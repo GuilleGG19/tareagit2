@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\bin\Debug\net5.0\Using.exe
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\bin\Debug\net5.0\Using.deps.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\bin\Debug\net5.0\Using.runtimeconfig.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\bin\Debug\net5.0\Using.runtimeconfig.dev.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\bin\Debug\net5.0\Using.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\bin\Debug\net5.0\ref\Using.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\bin\Debug\net5.0\Using.pdb
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\Using.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\Using.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\Using.AssemblyInfo.cs
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\Using.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\Using.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\ref\Using.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\Using.pdb
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\Using\obj\Debug\net5.0\Using.genruntimeconfig.cache

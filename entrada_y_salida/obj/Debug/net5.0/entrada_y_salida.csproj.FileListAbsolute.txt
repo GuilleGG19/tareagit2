@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\bin\Debug\net5.0\entrada_y_salida.exe
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\bin\Debug\net5.0\entrada_y_salida.deps.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\bin\Debug\net5.0\entrada_y_salida.runtimeconfig.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\bin\Debug\net5.0\entrada_y_salida.runtimeconfig.dev.json
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\bin\Debug\net5.0\entrada_y_salida.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\bin\Debug\net5.0\ref\entrada_y_salida.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\bin\Debug\net5.0\entrada_y_salida.pdb
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\entrada_y_salida.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\entrada_y_salida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\entrada_y_salida.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\entrada_y_salida.AssemblyInfo.cs
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\entrada_y_salida.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\entrada_y_salida.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\ref\entrada_y_salida.dll
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\entrada_y_salida.pdb
+C:\Users\USUARIO\Videos\GIT REPOSITORIOS\entrada_y_salida\obj\Debug\net5.0\entrada_y_salida.genruntimeconfig.cache
